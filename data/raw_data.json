@@ -1,0 +1,81 @@
+{
+  "description": "Text corpora used by the Markov Chain text-prediction page and the data viewer.",
+  "datasets": {
+    "campus_life": {
+      "title": "Campus Life",
+      "sentences": [
+        "i go to the library every morning",
+        "i go to the canteen after class",
+        "i go to class with my friends",
+        "my friends go to the library after class",
+        "the library is quiet in the morning",
+        "the canteen is busy after class",
+        "the class starts at nine in the morning",
+        "we study statistics in the library",
+        "we study probability with our teacher",
+        "our teacher explains the markov chain in class",
+        "the markov chain predicts the next word",
+        "the next word depends on the current word",
+        "i like to study with my friends",
+        "my friends like to eat in the canteen",
+        "we eat lunch in the canteen every day",
+        "every day i learn something new in class"
+      ]
+    },
+    "weather_report": {
+      "title": "Weather Report",
+      "sentences": [
+        "today is sunny and hot",
+        "today is cloudy and cool",
+        "tomorrow will be rainy and cool",
+        "tomorrow will be sunny and windy",
+        "the weather is sunny in the morning",
+        "the weather is rainy in the evening",
+        "it will rain in the evening",
+        "it will be hot in the afternoon",
+        "the afternoon will be cloudy and windy",
+        "the evening will be cool and rainy",
+        "a sunny day follows a rainy day",
+        "a rainy day follows a cloudy day",
+        "the chance of rain is high today",
+        "the chance of rain is low tomorrow"
+      ]
+    },
+    "coffee_shop": {
+      "title": "Coffee Shop Orders",
+      "sentences": [
+        "can i have a hot latte please",
+        "can i have an iced latte please",
+        "can i have an iced americano with less sugar",
+        "i would like a hot cocoa please",
+        "i would like an iced green tea with milk",
+        "i would like a croissant with butter",
+        "one hot americano and one croissant please",
+        "one iced latte with less sugar please",
+        "a hot latte with oat milk please",
+        "an iced green tea with less sugar please",
+        "can i pay by card please",
+        "can i pay by qr code please",
+        "thank you have a nice day"
+      ]
+    },
+    "study_tips": {
+      "title": "Study Tips",
+      "sentences": [
+        "study a little every day",
+        "study with a clear goal",
+        "review your notes after every class",
+        "review your notes before the exam",
+        "practice old exam questions before the exam",
+        "practice makes the hard questions easy",
+        "sleep well before the exam",
+        "sleep well and eat well",
+        "ask your teacher when the topic is hard",
+        "ask your friends when you are stuck",
+        "take a short break every hour",
+        "a short break helps you focus",
+        "focus on one topic at a time"
+      ]
+    }
+  }
+}

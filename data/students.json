@@ -1,0 +1,2165 @@
+{
+  "description": "Synthetic dataset of 240 students (generated for CS207 demo). Features: weekly study hours, class attendance %, sleep hours per night, assignments done out of 10. Target: final grade A-F.",
+  "students": [
+    {
+      "id": "S001",
+      "study_hours": 9.2,
+      "attendance": 78.0,
+      "sleep_hours": 9.4,
+      "assignments_done": 8,
+      "exam_score": 75.1,
+      "grade": "B"
+    },
+    {
+      "id": "S002",
+      "study_hours": 7.6,
+      "attendance": 97.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 7,
+      "exam_score": 70.7,
+      "grade": "B"
+    },
+    {
+      "id": "S003",
+      "study_hours": 3.6,
+      "attendance": 84.0,
+      "sleep_hours": 6.1,
+      "assignments_done": 7,
+      "exam_score": 41.0,
+      "grade": "F"
+    },
+    {
+      "id": "S004",
+      "study_hours": 4.1,
+      "attendance": 81.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 9,
+      "exam_score": 59.1,
+      "grade": "D"
+    },
+    {
+      "id": "S005",
+      "study_hours": 5.0,
+      "attendance": 73.0,
+      "sleep_hours": 6.2,
+      "assignments_done": 6,
+      "exam_score": 59.2,
+      "grade": "D"
+    },
+    {
+      "id": "S006",
+      "study_hours": 15.9,
+      "attendance": 80.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 6,
+      "exam_score": 86.3,
+      "grade": "A"
+    },
+    {
+      "id": "S007",
+      "study_hours": 11.5,
+      "attendance": 65.0,
+      "sleep_hours": 6.3,
+      "assignments_done": 7,
+      "exam_score": 67.0,
+      "grade": "C"
+    },
+    {
+      "id": "S008",
+      "study_hours": 9.9,
+      "attendance": 60.0,
+      "sleep_hours": 6.1,
+      "assignments_done": 7,
+      "exam_score": 58.3,
+      "grade": "D"
+    },
+    {
+      "id": "S009",
+      "study_hours": 6.9,
+      "attendance": 76.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 8,
+      "exam_score": 63.0,
+      "grade": "C"
+    },
+    {
+      "id": "S010",
+      "study_hours": 10.7,
+      "attendance": 75.0,
+      "sleep_hours": 7.7,
+      "assignments_done": 9,
+      "exam_score": 87.5,
+      "grade": "A"
+    },
+    {
+      "id": "S011",
+      "study_hours": 4.7,
+      "attendance": 73.0,
+      "sleep_hours": 6.7,
+      "assignments_done": 8,
+      "exam_score": 64.2,
+      "grade": "C"
+    },
+    {
+      "id": "S012",
+      "study_hours": 15.6,
+      "attendance": 90.0,
+      "sleep_hours": 5.2,
+      "assignments_done": 9,
+      "exam_score": 85.6,
+      "grade": "A"
+    },
+    {
+      "id": "S013",
+      "study_hours": 8.8,
+      "attendance": 57.0,
+      "sleep_hours": 8.9,
+      "assignments_done": 4,
+      "exam_score": 62.2,
+      "grade": "C"
+    },
+    {
+      "id": "S014",
+      "study_hours": 14.4,
+      "attendance": 70.0,
+      "sleep_hours": 7.0,
+      "assignments_done": 7,
+      "exam_score": 79.1,
+      "grade": "B"
+    },
+    {
+      "id": "S015",
+      "study_hours": 8.9,
+      "attendance": 89.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 9,
+      "exam_score": 78.6,
+      "grade": "B"
+    },
+    {
+      "id": "S016",
+      "study_hours": 3.4,
+      "attendance": 58.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 6,
+      "exam_score": 45.7,
+      "grade": "F"
+    },
+    {
+      "id": "S017",
+      "study_hours": 9.8,
+      "attendance": 72.0,
+      "sleep_hours": 8.2,
+      "assignments_done": 10,
+      "exam_score": 75.3,
+      "grade": "B"
+    },
+    {
+      "id": "S018",
+      "study_hours": 6.3,
+      "attendance": 83.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 8,
+      "exam_score": 77.9,
+      "grade": "B"
+    },
+    {
+      "id": "S019",
+      "study_hours": 7.4,
+      "attendance": 68.0,
+      "sleep_hours": 8.1,
+      "assignments_done": 7,
+      "exam_score": 68.0,
+      "grade": "C"
+    },
+    {
+      "id": "S020",
+      "study_hours": 9.7,
+      "attendance": 69.0,
+      "sleep_hours": 5.7,
+      "assignments_done": 7,
+      "exam_score": 66.3,
+      "grade": "C"
+    },
+    {
+      "id": "S021",
+      "study_hours": 8.1,
+      "attendance": 95.0,
+      "sleep_hours": 5.6,
+      "assignments_done": 7,
+      "exam_score": 69.8,
+      "grade": "C"
+    },
+    {
+      "id": "S022",
+      "study_hours": 4.4,
+      "attendance": 78.0,
+      "sleep_hours": 6.4,
+      "assignments_done": 6,
+      "exam_score": 60.3,
+      "grade": "C"
+    },
+    {
+      "id": "S023",
+      "study_hours": 11.1,
+      "attendance": 97.0,
+      "sleep_hours": 6.3,
+      "assignments_done": 3,
+      "exam_score": 65.6,
+      "grade": "C"
+    },
+    {
+      "id": "S024",
+      "study_hours": 8.0,
+      "attendance": 61.0,
+      "sleep_hours": 5.6,
+      "assignments_done": 6,
+      "exam_score": 53.0,
+      "grade": "D"
+    },
+    {
+      "id": "S025",
+      "study_hours": 10.3,
+      "attendance": 72.0,
+      "sleep_hours": 7.7,
+      "assignments_done": 9,
+      "exam_score": 87.1,
+      "grade": "A"
+    },
+    {
+      "id": "S026",
+      "study_hours": 8.7,
+      "attendance": 62.0,
+      "sleep_hours": 6.6,
+      "assignments_done": 6,
+      "exam_score": 52.5,
+      "grade": "D"
+    },
+    {
+      "id": "S027",
+      "study_hours": 2.7,
+      "attendance": 74.0,
+      "sleep_hours": 6.4,
+      "assignments_done": 7,
+      "exam_score": 57.4,
+      "grade": "D"
+    },
+    {
+      "id": "S028",
+      "study_hours": 7.4,
+      "attendance": 66.0,
+      "sleep_hours": 7.0,
+      "assignments_done": 4,
+      "exam_score": 56.2,
+      "grade": "D"
+    },
+    {
+      "id": "S029",
+      "study_hours": 13.0,
+      "attendance": 79.0,
+      "sleep_hours": 6.2,
+      "assignments_done": 8,
+      "exam_score": 77.5,
+      "grade": "B"
+    },
+    {
+      "id": "S030",
+      "study_hours": 15.9,
+      "attendance": 100.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 8,
+      "exam_score": 85.5,
+      "grade": "A"
+    },
+    {
+      "id": "S031",
+      "study_hours": 1.4,
+      "attendance": 82.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 8,
+      "exam_score": 67.0,
+      "grade": "C"
+    },
+    {
+      "id": "S032",
+      "study_hours": 9.2,
+      "attendance": 64.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 7,
+      "exam_score": 63.5,
+      "grade": "C"
+    },
+    {
+      "id": "S033",
+      "study_hours": 5.0,
+      "attendance": 79.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 6,
+      "exam_score": 62.2,
+      "grade": "C"
+    },
+    {
+      "id": "S034",
+      "study_hours": 4.0,
+      "attendance": 87.0,
+      "sleep_hours": 6.4,
+      "assignments_done": 8,
+      "exam_score": 66.4,
+      "grade": "C"
+    },
+    {
+      "id": "S035",
+      "study_hours": 4.4,
+      "attendance": 59.0,
+      "sleep_hours": 7.8,
+      "assignments_done": 7,
+      "exam_score": 59.6,
+      "grade": "D"
+    },
+    {
+      "id": "S036",
+      "study_hours": 9.9,
+      "attendance": 91.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 6,
+      "exam_score": 87.8,
+      "grade": "A"
+    },
+    {
+      "id": "S037",
+      "study_hours": 10.0,
+      "attendance": 53.0,
+      "sleep_hours": 6.8,
+      "assignments_done": 4,
+      "exam_score": 60.2,
+      "grade": "C"
+    },
+    {
+      "id": "S038",
+      "study_hours": 16.4,
+      "attendance": 93.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 6,
+      "exam_score": 99.5,
+      "grade": "A"
+    },
+    {
+      "id": "S039",
+      "study_hours": 5.2,
+      "attendance": 86.0,
+      "sleep_hours": 4.5,
+      "assignments_done": 6,
+      "exam_score": 59.7,
+      "grade": "D"
+    },
+    {
+      "id": "S040",
+      "study_hours": 5.7,
+      "attendance": 85.0,
+      "sleep_hours": 6.6,
+      "assignments_done": 6,
+      "exam_score": 63.5,
+      "grade": "C"
+    },
+    {
+      "id": "S041",
+      "study_hours": 9.7,
+      "attendance": 80.0,
+      "sleep_hours": 8.5,
+      "assignments_done": 8,
+      "exam_score": 80.5,
+      "grade": "A"
+    },
+    {
+      "id": "S042",
+      "study_hours": 5.8,
+      "attendance": 90.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 8,
+      "exam_score": 62.7,
+      "grade": "C"
+    },
+    {
+      "id": "S043",
+      "study_hours": 17.8,
+      "attendance": 100.0,
+      "sleep_hours": 4.9,
+      "assignments_done": 7,
+      "exam_score": 86.4,
+      "grade": "A"
+    },
+    {
+      "id": "S044",
+      "study_hours": 3.8,
+      "attendance": 80.0,
+      "sleep_hours": 6.8,
+      "assignments_done": 6,
+      "exam_score": 68.5,
+      "grade": "C"
+    },
+    {
+      "id": "S045",
+      "study_hours": 0.9,
+      "attendance": 78.0,
+      "sleep_hours": 7.5,
+      "assignments_done": 6,
+      "exam_score": 51.5,
+      "grade": "D"
+    },
+    {
+      "id": "S046",
+      "study_hours": 12.3,
+      "attendance": 90.0,
+      "sleep_hours": 10.0,
+      "assignments_done": 7,
+      "exam_score": 76.8,
+      "grade": "B"
+    },
+    {
+      "id": "S047",
+      "study_hours": 14.7,
+      "attendance": 73.0,
+      "sleep_hours": 6.3,
+      "assignments_done": 6,
+      "exam_score": 81.2,
+      "grade": "A"
+    },
+    {
+      "id": "S048",
+      "study_hours": 8.2,
+      "attendance": 75.0,
+      "sleep_hours": 4.7,
+      "assignments_done": 10,
+      "exam_score": 55.9,
+      "grade": "D"
+    },
+    {
+      "id": "S049",
+      "study_hours": 16.3,
+      "attendance": 97.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 7,
+      "exam_score": 99.2,
+      "grade": "A"
+    },
+    {
+      "id": "S050",
+      "study_hours": 10.7,
+      "attendance": 78.0,
+      "sleep_hours": 6.8,
+      "assignments_done": 6,
+      "exam_score": 59.4,
+      "grade": "D"
+    },
+    {
+      "id": "S051",
+      "study_hours": 2.6,
+      "attendance": 90.0,
+      "sleep_hours": 6.0,
+      "assignments_done": 8,
+      "exam_score": 58.1,
+      "grade": "D"
+    },
+    {
+      "id": "S052",
+      "study_hours": 3.2,
+      "attendance": 66.0,
+      "sleep_hours": 8.8,
+      "assignments_done": 9,
+      "exam_score": 63.9,
+      "grade": "C"
+    },
+    {
+      "id": "S053",
+      "study_hours": 3.2,
+      "attendance": 77.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 8,
+      "exam_score": 69.4,
+      "grade": "C"
+    },
+    {
+      "id": "S054",
+      "study_hours": 5.5,
+      "attendance": 70.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 7,
+      "exam_score": 52.9,
+      "grade": "D"
+    },
+    {
+      "id": "S055",
+      "study_hours": 3.6,
+      "attendance": 57.0,
+      "sleep_hours": 6.8,
+      "assignments_done": 9,
+      "exam_score": 53.6,
+      "grade": "D"
+    },
+    {
+      "id": "S056",
+      "study_hours": 20.9,
+      "attendance": 91.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 7,
+      "exam_score": 91.4,
+      "grade": "A"
+    },
+    {
+      "id": "S057",
+      "study_hours": 6.1,
+      "attendance": 81.0,
+      "sleep_hours": 9.4,
+      "assignments_done": 9,
+      "exam_score": 60.8,
+      "grade": "C"
+    },
+    {
+      "id": "S058",
+      "study_hours": 12.2,
+      "attendance": 68.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 7,
+      "exam_score": 81.3,
+      "grade": "A"
+    },
+    {
+      "id": "S059",
+      "study_hours": 10.8,
+      "attendance": 71.0,
+      "sleep_hours": 7.3,
+      "assignments_done": 8,
+      "exam_score": 73.9,
+      "grade": "B"
+    },
+    {
+      "id": "S060",
+      "study_hours": 10.4,
+      "attendance": 88.0,
+      "sleep_hours": 6.0,
+      "assignments_done": 6,
+      "exam_score": 70.4,
+      "grade": "B"
+    },
+    {
+      "id": "S061",
+      "study_hours": 10.3,
+      "attendance": 78.0,
+      "sleep_hours": 7.6,
+      "assignments_done": 8,
+      "exam_score": 72.3,
+      "grade": "B"
+    },
+    {
+      "id": "S062",
+      "study_hours": 8.0,
+      "attendance": 66.0,
+      "sleep_hours": 8.7,
+      "assignments_done": 6,
+      "exam_score": 68.9,
+      "grade": "C"
+    },
+    {
+      "id": "S063",
+      "study_hours": 7.5,
+      "attendance": 88.0,
+      "sleep_hours": 4.4,
+      "assignments_done": 9,
+      "exam_score": 70.8,
+      "grade": "B"
+    },
+    {
+      "id": "S064",
+      "study_hours": 1.9,
+      "attendance": 94.0,
+      "sleep_hours": 7.0,
+      "assignments_done": 7,
+      "exam_score": 57.5,
+      "grade": "D"
+    },
+    {
+      "id": "S065",
+      "study_hours": 1.2,
+      "attendance": 95.0,
+      "sleep_hours": 9.6,
+      "assignments_done": 7,
+      "exam_score": 52.2,
+      "grade": "D"
+    },
+    {
+      "id": "S066",
+      "study_hours": 1.6,
+      "attendance": 80.0,
+      "sleep_hours": 7.3,
+      "assignments_done": 8,
+      "exam_score": 64.1,
+      "grade": "C"
+    },
+    {
+      "id": "S067",
+      "study_hours": 1.9,
+      "attendance": 100.0,
+      "sleep_hours": 5.4,
+      "assignments_done": 5,
+      "exam_score": 49.0,
+      "grade": "F"
+    },
+    {
+      "id": "S068",
+      "study_hours": 5.8,
+      "attendance": 100.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 5,
+      "exam_score": 51.1,
+      "grade": "D"
+    },
+    {
+      "id": "S069",
+      "study_hours": 3.8,
+      "attendance": 77.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 6,
+      "exam_score": 61.2,
+      "grade": "C"
+    },
+    {
+      "id": "S070",
+      "study_hours": 3.1,
+      "attendance": 93.0,
+      "sleep_hours": 3.5,
+      "assignments_done": 8,
+      "exam_score": 41.3,
+      "grade": "F"
+    },
+    {
+      "id": "S071",
+      "study_hours": 11.1,
+      "attendance": 65.0,
+      "sleep_hours": 6.4,
+      "assignments_done": 5,
+      "exam_score": 67.5,
+      "grade": "C"
+    },
+    {
+      "id": "S072",
+      "study_hours": 6.1,
+      "attendance": 77.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 6,
+      "exam_score": 59.3,
+      "grade": "D"
+    },
+    {
+      "id": "S073",
+      "study_hours": 4.4,
+      "attendance": 92.0,
+      "sleep_hours": 7.3,
+      "assignments_done": 9,
+      "exam_score": 71.7,
+      "grade": "B"
+    },
+    {
+      "id": "S074",
+      "study_hours": 4.5,
+      "attendance": 80.0,
+      "sleep_hours": 6.3,
+      "assignments_done": 5,
+      "exam_score": 51.4,
+      "grade": "D"
+    },
+    {
+      "id": "S075",
+      "study_hours": 5.6,
+      "attendance": 84.0,
+      "sleep_hours": 6.6,
+      "assignments_done": 10,
+      "exam_score": 56.9,
+      "grade": "D"
+    },
+    {
+      "id": "S076",
+      "study_hours": 11.9,
+      "attendance": 100.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 8,
+      "exam_score": 79.0,
+      "grade": "B"
+    },
+    {
+      "id": "S077",
+      "study_hours": 2.5,
+      "attendance": 90.0,
+      "sleep_hours": 6.6,
+      "assignments_done": 7,
+      "exam_score": 52.2,
+      "grade": "D"
+    },
+    {
+      "id": "S078",
+      "study_hours": 4.3,
+      "attendance": 97.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 7,
+      "exam_score": 57.8,
+      "grade": "D"
+    },
+    {
+      "id": "S079",
+      "study_hours": 2.0,
+      "attendance": 62.0,
+      "sleep_hours": 8.1,
+      "assignments_done": 7,
+      "exam_score": 55.3,
+      "grade": "D"
+    },
+    {
+      "id": "S080",
+      "study_hours": 9.3,
+      "attendance": 81.0,
+      "sleep_hours": 4.2,
+      "assignments_done": 5,
+      "exam_score": 54.8,
+      "grade": "D"
+    },
+    {
+      "id": "S081",
+      "study_hours": 6.2,
+      "attendance": 97.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 7,
+      "exam_score": 72.0,
+      "grade": "B"
+    },
+    {
+      "id": "S082",
+      "study_hours": 3.3,
+      "attendance": 68.0,
+      "sleep_hours": 7.1,
+      "assignments_done": 8,
+      "exam_score": 59.8,
+      "grade": "D"
+    },
+    {
+      "id": "S083",
+      "study_hours": 4.5,
+      "attendance": 86.0,
+      "sleep_hours": 6.1,
+      "assignments_done": 6,
+      "exam_score": 53.9,
+      "grade": "D"
+    },
+    {
+      "id": "S084",
+      "study_hours": 6.4,
+      "attendance": 72.0,
+      "sleep_hours": 8.2,
+      "assignments_done": 9,
+      "exam_score": 75.6,
+      "grade": "B"
+    },
+    {
+      "id": "S085",
+      "study_hours": 12.2,
+      "attendance": 73.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 7,
+      "exam_score": 84.1,
+      "grade": "A"
+    },
+    {
+      "id": "S086",
+      "study_hours": 14.7,
+      "attendance": 89.0,
+      "sleep_hours": 5.4,
+      "assignments_done": 7,
+      "exam_score": 77.2,
+      "grade": "B"
+    },
+    {
+      "id": "S087",
+      "study_hours": 4.0,
+      "attendance": 95.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 7,
+      "exam_score": 65.0,
+      "grade": "C"
+    },
+    {
+      "id": "S088",
+      "study_hours": 12.7,
+      "attendance": 72.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 7,
+      "exam_score": 67.9,
+      "grade": "C"
+    },
+    {
+      "id": "S089",
+      "study_hours": 8.1,
+      "attendance": 90.0,
+      "sleep_hours": 6.0,
+      "assignments_done": 7,
+      "exam_score": 63.8,
+      "grade": "C"
+    },
+    {
+      "id": "S090",
+      "study_hours": 6.1,
+      "attendance": 76.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 6,
+      "exam_score": 62.8,
+      "grade": "C"
+    },
+    {
+      "id": "S091",
+      "study_hours": 13.5,
+      "attendance": 89.0,
+      "sleep_hours": 6.7,
+      "assignments_done": 8,
+      "exam_score": 73.5,
+      "grade": "B"
+    },
+    {
+      "id": "S092",
+      "study_hours": 8.2,
+      "attendance": 78.0,
+      "sleep_hours": 8.6,
+      "assignments_done": 9,
+      "exam_score": 79.4,
+      "grade": "B"
+    },
+    {
+      "id": "S093",
+      "study_hours": 4.9,
+      "attendance": 71.0,
+      "sleep_hours": 5.7,
+      "assignments_done": 10,
+      "exam_score": 50.4,
+      "grade": "D"
+    },
+    {
+      "id": "S094",
+      "study_hours": 9.1,
+      "attendance": 69.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 6,
+      "exam_score": 57.3,
+      "grade": "D"
+    },
+    {
+      "id": "S095",
+      "study_hours": 4.5,
+      "attendance": 100.0,
+      "sleep_hours": 5.2,
+      "assignments_done": 8,
+      "exam_score": 57.0,
+      "grade": "D"
+    },
+    {
+      "id": "S096",
+      "study_hours": 13.6,
+      "attendance": 71.0,
+      "sleep_hours": 7.5,
+      "assignments_done": 8,
+      "exam_score": 82.8,
+      "grade": "A"
+    },
+    {
+      "id": "S097",
+      "study_hours": 12.1,
+      "attendance": 79.0,
+      "sleep_hours": 7.8,
+      "assignments_done": 10,
+      "exam_score": 82.4,
+      "grade": "A"
+    },
+    {
+      "id": "S098",
+      "study_hours": 7.7,
+      "attendance": 62.0,
+      "sleep_hours": 6.7,
+      "assignments_done": 10,
+      "exam_score": 58.5,
+      "grade": "D"
+    },
+    {
+      "id": "S099",
+      "study_hours": 5.2,
+      "attendance": 62.0,
+      "sleep_hours": 6.3,
+      "assignments_done": 7,
+      "exam_score": 48.8,
+      "grade": "F"
+    },
+    {
+      "id": "S100",
+      "study_hours": 8.7,
+      "attendance": 80.0,
+      "sleep_hours": 6.4,
+      "assignments_done": 6,
+      "exam_score": 66.4,
+      "grade": "C"
+    },
+    {
+      "id": "S101",
+      "study_hours": 3.0,
+      "attendance": 75.0,
+      "sleep_hours": 5.0,
+      "assignments_done": 7,
+      "exam_score": 47.7,
+      "grade": "F"
+    },
+    {
+      "id": "S102",
+      "study_hours": 2.7,
+      "attendance": 64.0,
+      "sleep_hours": 8.1,
+      "assignments_done": 9,
+      "exam_score": 47.9,
+      "grade": "F"
+    },
+    {
+      "id": "S103",
+      "study_hours": 12.5,
+      "attendance": 75.0,
+      "sleep_hours": 6.7,
+      "assignments_done": 8,
+      "exam_score": 72.4,
+      "grade": "B"
+    },
+    {
+      "id": "S104",
+      "study_hours": 1.4,
+      "attendance": 100.0,
+      "sleep_hours": 7.0,
+      "assignments_done": 4,
+      "exam_score": 54.0,
+      "grade": "D"
+    },
+    {
+      "id": "S105",
+      "study_hours": 7.0,
+      "attendance": 63.0,
+      "sleep_hours": 6.2,
+      "assignments_done": 6,
+      "exam_score": 53.3,
+      "grade": "D"
+    },
+    {
+      "id": "S106",
+      "study_hours": 6.0,
+      "attendance": 77.0,
+      "sleep_hours": 7.1,
+      "assignments_done": 4,
+      "exam_score": 54.2,
+      "grade": "D"
+    },
+    {
+      "id": "S107",
+      "study_hours": 1.7,
+      "attendance": 78.0,
+      "sleep_hours": 7.6,
+      "assignments_done": 7,
+      "exam_score": 42.9,
+      "grade": "F"
+    },
+    {
+      "id": "S108",
+      "study_hours": 5.1,
+      "attendance": 60.0,
+      "sleep_hours": 6.6,
+      "assignments_done": 8,
+      "exam_score": 66.1,
+      "grade": "C"
+    },
+    {
+      "id": "S109",
+      "study_hours": 9.0,
+      "attendance": 60.0,
+      "sleep_hours": 9.3,
+      "assignments_done": 3,
+      "exam_score": 54.3,
+      "grade": "D"
+    },
+    {
+      "id": "S110",
+      "study_hours": 9.9,
+      "attendance": 47.0,
+      "sleep_hours": 5.2,
+      "assignments_done": 9,
+      "exam_score": 60.9,
+      "grade": "C"
+    },
+    {
+      "id": "S111",
+      "study_hours": 1.1,
+      "attendance": 76.0,
+      "sleep_hours": 5.0,
+      "assignments_done": 10,
+      "exam_score": 37.7,
+      "grade": "F"
+    },
+    {
+      "id": "S112",
+      "study_hours": 16.6,
+      "attendance": 68.0,
+      "sleep_hours": 5.5,
+      "assignments_done": 10,
+      "exam_score": 74.5,
+      "grade": "B"
+    },
+    {
+      "id": "S113",
+      "study_hours": 3.9,
+      "attendance": 64.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 6,
+      "exam_score": 44.7,
+      "grade": "F"
+    },
+    {
+      "id": "S114",
+      "study_hours": 12.1,
+      "attendance": 100.0,
+      "sleep_hours": 6.4,
+      "assignments_done": 5,
+      "exam_score": 72.6,
+      "grade": "B"
+    },
+    {
+      "id": "S115",
+      "study_hours": 7.0,
+      "attendance": 67.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 6,
+      "exam_score": 49.1,
+      "grade": "F"
+    },
+    {
+      "id": "S116",
+      "study_hours": 13.8,
+      "attendance": 100.0,
+      "sleep_hours": 7.5,
+      "assignments_done": 7,
+      "exam_score": 81.2,
+      "grade": "A"
+    },
+    {
+      "id": "S117",
+      "study_hours": 6.7,
+      "attendance": 76.0,
+      "sleep_hours": 8.2,
+      "assignments_done": 8,
+      "exam_score": 67.4,
+      "grade": "C"
+    },
+    {
+      "id": "S118",
+      "study_hours": 9.7,
+      "attendance": 77.0,
+      "sleep_hours": 6.0,
+      "assignments_done": 9,
+      "exam_score": 59.5,
+      "grade": "D"
+    },
+    {
+      "id": "S119",
+      "study_hours": 5.2,
+      "attendance": 73.0,
+      "sleep_hours": 7.5,
+      "assignments_done": 9,
+      "exam_score": 77.1,
+      "grade": "B"
+    },
+    {
+      "id": "S120",
+      "study_hours": 10.6,
+      "attendance": 84.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 6,
+      "exam_score": 59.9,
+      "grade": "D"
+    },
+    {
+      "id": "S121",
+      "study_hours": 10.1,
+      "attendance": 81.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 6,
+      "exam_score": 57.9,
+      "grade": "D"
+    },
+    {
+      "id": "S122",
+      "study_hours": 11.6,
+      "attendance": 87.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 7,
+      "exam_score": 78.5,
+      "grade": "B"
+    },
+    {
+      "id": "S123",
+      "study_hours": 1.3,
+      "attendance": 80.0,
+      "sleep_hours": 9.0,
+      "assignments_done": 7,
+      "exam_score": 62.8,
+      "grade": "C"
+    },
+    {
+      "id": "S124",
+      "study_hours": 6.7,
+      "attendance": 88.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 6,
+      "exam_score": 54.2,
+      "grade": "D"
+    },
+    {
+      "id": "S125",
+      "study_hours": 7.5,
+      "attendance": 79.0,
+      "sleep_hours": 7.0,
+      "assignments_done": 7,
+      "exam_score": 58.1,
+      "grade": "D"
+    },
+    {
+      "id": "S126",
+      "study_hours": 9.1,
+      "attendance": 79.0,
+      "sleep_hours": 6.8,
+      "assignments_done": 8,
+      "exam_score": 58.8,
+      "grade": "D"
+    },
+    {
+      "id": "S127",
+      "study_hours": 6.4,
+      "attendance": 77.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 7,
+      "exam_score": 61.8,
+      "grade": "C"
+    },
+    {
+      "id": "S128",
+      "study_hours": 4.5,
+      "attendance": 86.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 8,
+      "exam_score": 70.4,
+      "grade": "B"
+    },
+    {
+      "id": "S129",
+      "study_hours": 4.3,
+      "attendance": 99.0,
+      "sleep_hours": 6.2,
+      "assignments_done": 9,
+      "exam_score": 51.2,
+      "grade": "D"
+    },
+    {
+      "id": "S130",
+      "study_hours": 12.2,
+      "attendance": 86.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 9,
+      "exam_score": 72.2,
+      "grade": "B"
+    },
+    {
+      "id": "S131",
+      "study_hours": 6.8,
+      "attendance": 79.0,
+      "sleep_hours": 5.5,
+      "assignments_done": 9,
+      "exam_score": 60.3,
+      "grade": "C"
+    },
+    {
+      "id": "S132",
+      "study_hours": 9.2,
+      "attendance": 61.0,
+      "sleep_hours": 5.5,
+      "assignments_done": 7,
+      "exam_score": 50.6,
+      "grade": "D"
+    },
+    {
+      "id": "S133",
+      "study_hours": 2.5,
+      "attendance": 88.0,
+      "sleep_hours": 7.8,
+      "assignments_done": 10,
+      "exam_score": 67.5,
+      "grade": "C"
+    },
+    {
+      "id": "S134",
+      "study_hours": 16.3,
+      "attendance": 100.0,
+      "sleep_hours": 7.5,
+      "assignments_done": 8,
+      "exam_score": 98.3,
+      "grade": "A"
+    },
+    {
+      "id": "S135",
+      "study_hours": 24.2,
+      "attendance": 95.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 5,
+      "exam_score": 97.6,
+      "grade": "A"
+    },
+    {
+      "id": "S136",
+      "study_hours": 5.5,
+      "attendance": 72.0,
+      "sleep_hours": 7.3,
+      "assignments_done": 8,
+      "exam_score": 55.3,
+      "grade": "D"
+    },
+    {
+      "id": "S137",
+      "study_hours": 5.3,
+      "attendance": 90.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 8,
+      "exam_score": 74.9,
+      "grade": "B"
+    },
+    {
+      "id": "S138",
+      "study_hours": 10.0,
+      "attendance": 54.0,
+      "sleep_hours": 7.5,
+      "assignments_done": 7,
+      "exam_score": 57.0,
+      "grade": "D"
+    },
+    {
+      "id": "S139",
+      "study_hours": 8.1,
+      "attendance": 75.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 5,
+      "exam_score": 73.0,
+      "grade": "B"
+    },
+    {
+      "id": "S140",
+      "study_hours": 18.3,
+      "attendance": 66.0,
+      "sleep_hours": 4.0,
+      "assignments_done": 7,
+      "exam_score": 63.8,
+      "grade": "C"
+    },
+    {
+      "id": "S141",
+      "study_hours": 4.0,
+      "attendance": 74.0,
+      "sleep_hours": 7.8,
+      "assignments_done": 5,
+      "exam_score": 65.0,
+      "grade": "C"
+    },
+    {
+      "id": "S142",
+      "study_hours": 5.2,
+      "attendance": 83.0,
+      "sleep_hours": 5.6,
+      "assignments_done": 7,
+      "exam_score": 54.1,
+      "grade": "D"
+    },
+    {
+      "id": "S143",
+      "study_hours": 2.6,
+      "attendance": 98.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 10,
+      "exam_score": 69.3,
+      "grade": "C"
+    },
+    {
+      "id": "S144",
+      "study_hours": 2.3,
+      "attendance": 80.0,
+      "sleep_hours": 7.1,
+      "assignments_done": 9,
+      "exam_score": 61.2,
+      "grade": "C"
+    },
+    {
+      "id": "S145",
+      "study_hours": 17.2,
+      "attendance": 83.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 7,
+      "exam_score": 95.0,
+      "grade": "A"
+    },
+    {
+      "id": "S146",
+      "study_hours": 8.6,
+      "attendance": 86.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 7,
+      "exam_score": 63.4,
+      "grade": "C"
+    },
+    {
+      "id": "S147",
+      "study_hours": 10.8,
+      "attendance": 79.0,
+      "sleep_hours": 7.1,
+      "assignments_done": 8,
+      "exam_score": 79.7,
+      "grade": "B"
+    },
+    {
+      "id": "S148",
+      "study_hours": 4.0,
+      "attendance": 74.0,
+      "sleep_hours": 7.7,
+      "assignments_done": 7,
+      "exam_score": 73.5,
+      "grade": "B"
+    },
+    {
+      "id": "S149",
+      "study_hours": 4.6,
+      "attendance": 77.0,
+      "sleep_hours": 5.6,
+      "assignments_done": 6,
+      "exam_score": 48.7,
+      "grade": "F"
+    },
+    {
+      "id": "S150",
+      "study_hours": 11.0,
+      "attendance": 83.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 7,
+      "exam_score": 80.3,
+      "grade": "A"
+    },
+    {
+      "id": "S151",
+      "study_hours": 7.1,
+      "attendance": 88.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 9,
+      "exam_score": 50.9,
+      "grade": "D"
+    },
+    {
+      "id": "S152",
+      "study_hours": 14.4,
+      "attendance": 91.0,
+      "sleep_hours": 5.2,
+      "assignments_done": 7,
+      "exam_score": 66.3,
+      "grade": "C"
+    },
+    {
+      "id": "S153",
+      "study_hours": 4.4,
+      "attendance": 94.0,
+      "sleep_hours": 9.1,
+      "assignments_done": 7,
+      "exam_score": 78.9,
+      "grade": "B"
+    },
+    {
+      "id": "S154",
+      "study_hours": 3.3,
+      "attendance": 58.0,
+      "sleep_hours": 7.6,
+      "assignments_done": 8,
+      "exam_score": 52.1,
+      "grade": "D"
+    },
+    {
+      "id": "S155",
+      "study_hours": 5.6,
+      "attendance": 79.0,
+      "sleep_hours": 7.5,
+      "assignments_done": 7,
+      "exam_score": 58.2,
+      "grade": "D"
+    },
+    {
+      "id": "S156",
+      "study_hours": 5.9,
+      "attendance": 99.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 8,
+      "exam_score": 77.1,
+      "grade": "B"
+    },
+    {
+      "id": "S157",
+      "study_hours": 20.4,
+      "attendance": 88.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 7,
+      "exam_score": 92.5,
+      "grade": "A"
+    },
+    {
+      "id": "S158",
+      "study_hours": 10.6,
+      "attendance": 91.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 5,
+      "exam_score": 65.3,
+      "grade": "C"
+    },
+    {
+      "id": "S159",
+      "study_hours": 8.5,
+      "attendance": 74.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 8,
+      "exam_score": 79.1,
+      "grade": "B"
+    },
+    {
+      "id": "S160",
+      "study_hours": 9.9,
+      "attendance": 55.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 7,
+      "exam_score": 65.1,
+      "grade": "C"
+    },
+    {
+      "id": "S161",
+      "study_hours": 12.4,
+      "attendance": 92.0,
+      "sleep_hours": 8.7,
+      "assignments_done": 7,
+      "exam_score": 81.9,
+      "grade": "A"
+    },
+    {
+      "id": "S162",
+      "study_hours": 10.0,
+      "attendance": 88.0,
+      "sleep_hours": 6.0,
+      "assignments_done": 6,
+      "exam_score": 74.9,
+      "grade": "B"
+    },
+    {
+      "id": "S163",
+      "study_hours": 6.6,
+      "attendance": 100.0,
+      "sleep_hours": 7.1,
+      "assignments_done": 8,
+      "exam_score": 81.2,
+      "grade": "A"
+    },
+    {
+      "id": "S164",
+      "study_hours": 3.2,
+      "attendance": 100.0,
+      "sleep_hours": 6.1,
+      "assignments_done": 8,
+      "exam_score": 60.0,
+      "grade": "D"
+    },
+    {
+      "id": "S165",
+      "study_hours": 9.9,
+      "attendance": 77.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 7,
+      "exam_score": 65.2,
+      "grade": "C"
+    },
+    {
+      "id": "S166",
+      "study_hours": 2.5,
+      "attendance": 94.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 8,
+      "exam_score": 57.0,
+      "grade": "D"
+    },
+    {
+      "id": "S167",
+      "study_hours": 4.1,
+      "attendance": 97.0,
+      "sleep_hours": 7.3,
+      "assignments_done": 5,
+      "exam_score": 65.7,
+      "grade": "C"
+    },
+    {
+      "id": "S168",
+      "study_hours": 4.6,
+      "attendance": 81.0,
+      "sleep_hours": 7.6,
+      "assignments_done": 7,
+      "exam_score": 67.0,
+      "grade": "C"
+    },
+    {
+      "id": "S169",
+      "study_hours": 8.5,
+      "attendance": 100.0,
+      "sleep_hours": 8.3,
+      "assignments_done": 7,
+      "exam_score": 72.1,
+      "grade": "B"
+    },
+    {
+      "id": "S170",
+      "study_hours": 6.5,
+      "attendance": 92.0,
+      "sleep_hours": 7.1,
+      "assignments_done": 6,
+      "exam_score": 68.0,
+      "grade": "C"
+    },
+    {
+      "id": "S171",
+      "study_hours": 11.2,
+      "attendance": 87.0,
+      "sleep_hours": 9.2,
+      "assignments_done": 9,
+      "exam_score": 86.2,
+      "grade": "A"
+    },
+    {
+      "id": "S172",
+      "study_hours": 4.9,
+      "attendance": 72.0,
+      "sleep_hours": 7.6,
+      "assignments_done": 6,
+      "exam_score": 53.0,
+      "grade": "D"
+    },
+    {
+      "id": "S173",
+      "study_hours": 3.1,
+      "attendance": 98.0,
+      "sleep_hours": 8.1,
+      "assignments_done": 7,
+      "exam_score": 70.2,
+      "grade": "B"
+    },
+    {
+      "id": "S174",
+      "study_hours": 12.8,
+      "attendance": 72.0,
+      "sleep_hours": 6.3,
+      "assignments_done": 8,
+      "exam_score": 67.1,
+      "grade": "C"
+    },
+    {
+      "id": "S175",
+      "study_hours": 2.7,
+      "attendance": 97.0,
+      "sleep_hours": 8.4,
+      "assignments_done": 6,
+      "exam_score": 52.4,
+      "grade": "D"
+    },
+    {
+      "id": "S176",
+      "study_hours": 8.6,
+      "attendance": 91.0,
+      "sleep_hours": 7.0,
+      "assignments_done": 7,
+      "exam_score": 73.0,
+      "grade": "B"
+    },
+    {
+      "id": "S177",
+      "study_hours": 4.1,
+      "attendance": 87.0,
+      "sleep_hours": 6.2,
+      "assignments_done": 6,
+      "exam_score": 55.4,
+      "grade": "D"
+    },
+    {
+      "id": "S178",
+      "study_hours": 13.4,
+      "attendance": 75.0,
+      "sleep_hours": 4.6,
+      "assignments_done": 10,
+      "exam_score": 72.2,
+      "grade": "B"
+    },
+    {
+      "id": "S179",
+      "study_hours": 12.9,
+      "attendance": 74.0,
+      "sleep_hours": 5.3,
+      "assignments_done": 5,
+      "exam_score": 69.0,
+      "grade": "C"
+    },
+    {
+      "id": "S180",
+      "study_hours": 7.2,
+      "attendance": 64.0,
+      "sleep_hours": 6.1,
+      "assignments_done": 7,
+      "exam_score": 46.0,
+      "grade": "F"
+    },
+    {
+      "id": "S181",
+      "study_hours": 9.3,
+      "attendance": 85.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 8,
+      "exam_score": 68.0,
+      "grade": "C"
+    },
+    {
+      "id": "S182",
+      "study_hours": 4.1,
+      "attendance": 81.0,
+      "sleep_hours": 6.6,
+      "assignments_done": 6,
+      "exam_score": 50.4,
+      "grade": "D"
+    },
+    {
+      "id": "S183",
+      "study_hours": 10.5,
+      "attendance": 78.0,
+      "sleep_hours": 5.6,
+      "assignments_done": 8,
+      "exam_score": 74.4,
+      "grade": "B"
+    },
+    {
+      "id": "S184",
+      "study_hours": 1.2,
+      "attendance": 72.0,
+      "sleep_hours": 7.7,
+      "assignments_done": 7,
+      "exam_score": 44.4,
+      "grade": "F"
+    },
+    {
+      "id": "S185",
+      "study_hours": 7.3,
+      "attendance": 94.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 6,
+      "exam_score": 69.8,
+      "grade": "C"
+    },
+    {
+      "id": "S186",
+      "study_hours": 4.1,
+      "attendance": 87.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 8,
+      "exam_score": 58.7,
+      "grade": "D"
+    },
+    {
+      "id": "S187",
+      "study_hours": 7.5,
+      "attendance": 75.0,
+      "sleep_hours": 9.7,
+      "assignments_done": 5,
+      "exam_score": 67.5,
+      "grade": "C"
+    },
+    {
+      "id": "S188",
+      "study_hours": 5.6,
+      "attendance": 86.0,
+      "sleep_hours": 8.6,
+      "assignments_done": 4,
+      "exam_score": 55.1,
+      "grade": "D"
+    },
+    {
+      "id": "S189",
+      "study_hours": 5.4,
+      "attendance": 83.0,
+      "sleep_hours": 7.1,
+      "assignments_done": 6,
+      "exam_score": 51.4,
+      "grade": "D"
+    },
+    {
+      "id": "S190",
+      "study_hours": 8.1,
+      "attendance": 80.0,
+      "sleep_hours": 7.1,
+      "assignments_done": 7,
+      "exam_score": 80.5,
+      "grade": "A"
+    },
+    {
+      "id": "S191",
+      "study_hours": 10.8,
+      "attendance": 88.0,
+      "sleep_hours": 6.4,
+      "assignments_done": 8,
+      "exam_score": 72.1,
+      "grade": "B"
+    },
+    {
+      "id": "S192",
+      "study_hours": 8.8,
+      "attendance": 76.0,
+      "sleep_hours": 7.9,
+      "assignments_done": 5,
+      "exam_score": 74.0,
+      "grade": "B"
+    },
+    {
+      "id": "S193",
+      "study_hours": 5.3,
+      "attendance": 81.0,
+      "sleep_hours": 8.5,
+      "assignments_done": 8,
+      "exam_score": 63.1,
+      "grade": "C"
+    },
+    {
+      "id": "S194",
+      "study_hours": 10.2,
+      "attendance": 78.0,
+      "sleep_hours": 8.2,
+      "assignments_done": 7,
+      "exam_score": 57.0,
+      "grade": "D"
+    },
+    {
+      "id": "S195",
+      "study_hours": 4.2,
+      "attendance": 98.0,
+      "sleep_hours": 7.0,
+      "assignments_done": 7,
+      "exam_score": 71.2,
+      "grade": "B"
+    },
+    {
+      "id": "S196",
+      "study_hours": 3.3,
+      "attendance": 86.0,
+      "sleep_hours": 8.2,
+      "assignments_done": 9,
+      "exam_score": 77.4,
+      "grade": "B"
+    },
+    {
+      "id": "S197",
+      "study_hours": 4.6,
+      "attendance": 100.0,
+      "sleep_hours": 5.0,
+      "assignments_done": 7,
+      "exam_score": 48.8,
+      "grade": "F"
+    },
+    {
+      "id": "S198",
+      "study_hours": 7.7,
+      "attendance": 64.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 7,
+      "exam_score": 70.3,
+      "grade": "B"
+    },
+    {
+      "id": "S199",
+      "study_hours": 3.3,
+      "attendance": 94.0,
+      "sleep_hours": 6.5,
+      "assignments_done": 4,
+      "exam_score": 58.0,
+      "grade": "D"
+    },
+    {
+      "id": "S200",
+      "study_hours": 17.9,
+      "attendance": 56.0,
+      "sleep_hours": 7.8,
+      "assignments_done": 5,
+      "exam_score": 68.8,
+      "grade": "C"
+    },
+    {
+      "id": "S201",
+      "study_hours": 4.0,
+      "attendance": 80.0,
+      "sleep_hours": 7.8,
+      "assignments_done": 6,
+      "exam_score": 54.7,
+      "grade": "D"
+    },
+    {
+      "id": "S202",
+      "study_hours": 1.5,
+      "attendance": 92.0,
+      "sleep_hours": 7.8,
+      "assignments_done": 6,
+      "exam_score": 45.7,
+      "grade": "F"
+    },
+    {
+      "id": "S203",
+      "study_hours": 11.9,
+      "attendance": 68.0,
+      "sleep_hours": 6.6,
+      "assignments_done": 6,
+      "exam_score": 68.2,
+      "grade": "C"
+    },
+    {
+      "id": "S204",
+      "study_hours": 5.6,
+      "attendance": 93.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 8,
+      "exam_score": 62.4,
+      "grade": "C"
+    },
+    {
+      "id": "S205",
+      "study_hours": 3.9,
+      "attendance": 88.0,
+      "sleep_hours": 8.6,
+      "assignments_done": 10,
+      "exam_score": 71.9,
+      "grade": "B"
+    },
+    {
+      "id": "S206",
+      "study_hours": 15.3,
+      "attendance": 76.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 8,
+      "exam_score": 98.0,
+      "grade": "A"
+    },
+    {
+      "id": "S207",
+      "study_hours": 6.0,
+      "attendance": 72.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 6,
+      "exam_score": 60.5,
+      "grade": "C"
+    },
+    {
+      "id": "S208",
+      "study_hours": 1.5,
+      "attendance": 72.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 7,
+      "exam_score": 53.5,
+      "grade": "D"
+    },
+    {
+      "id": "S209",
+      "study_hours": 9.9,
+      "attendance": 59.0,
+      "sleep_hours": 4.1,
+      "assignments_done": 5,
+      "exam_score": 39.8,
+      "grade": "F"
+    },
+    {
+      "id": "S210",
+      "study_hours": 6.1,
+      "attendance": 69.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 8,
+      "exam_score": 65.7,
+      "grade": "C"
+    },
+    {
+      "id": "S211",
+      "study_hours": 9.9,
+      "attendance": 90.0,
+      "sleep_hours": 6.1,
+      "assignments_done": 8,
+      "exam_score": 76.5,
+      "grade": "B"
+    },
+    {
+      "id": "S212",
+      "study_hours": 0.7,
+      "attendance": 88.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 7,
+      "exam_score": 56.7,
+      "grade": "D"
+    },
+    {
+      "id": "S213",
+      "study_hours": 10.5,
+      "attendance": 51.0,
+      "sleep_hours": 7.8,
+      "assignments_done": 7,
+      "exam_score": 59.5,
+      "grade": "D"
+    },
+    {
+      "id": "S214",
+      "study_hours": 11.9,
+      "attendance": 82.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 7,
+      "exam_score": 76.7,
+      "grade": "B"
+    },
+    {
+      "id": "S215",
+      "study_hours": 10.2,
+      "attendance": 82.0,
+      "sleep_hours": 4.9,
+      "assignments_done": 9,
+      "exam_score": 64.3,
+      "grade": "C"
+    },
+    {
+      "id": "S216",
+      "study_hours": 4.3,
+      "attendance": 80.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 6,
+      "exam_score": 65.0,
+      "grade": "C"
+    },
+    {
+      "id": "S217",
+      "study_hours": 8.2,
+      "attendance": 70.0,
+      "sleep_hours": 7.0,
+      "assignments_done": 6,
+      "exam_score": 63.0,
+      "grade": "C"
+    },
+    {
+      "id": "S218",
+      "study_hours": 5.4,
+      "attendance": 90.0,
+      "sleep_hours": 5.3,
+      "assignments_done": 6,
+      "exam_score": 62.8,
+      "grade": "C"
+    },
+    {
+      "id": "S219",
+      "study_hours": 6.5,
+      "attendance": 96.0,
+      "sleep_hours": 5.3,
+      "assignments_done": 6,
+      "exam_score": 60.5,
+      "grade": "C"
+    },
+    {
+      "id": "S220",
+      "study_hours": 9.8,
+      "attendance": 79.0,
+      "sleep_hours": 5.1,
+      "assignments_done": 8,
+      "exam_score": 59.3,
+      "grade": "D"
+    },
+    {
+      "id": "S221",
+      "study_hours": 6.3,
+      "attendance": 100.0,
+      "sleep_hours": 6.6,
+      "assignments_done": 7,
+      "exam_score": 68.1,
+      "grade": "C"
+    },
+    {
+      "id": "S222",
+      "study_hours": 12.2,
+      "attendance": 68.0,
+      "sleep_hours": 5.6,
+      "assignments_done": 8,
+      "exam_score": 62.1,
+      "grade": "C"
+    },
+    {
+      "id": "S223",
+      "study_hours": 3.8,
+      "attendance": 91.0,
+      "sleep_hours": 5.4,
+      "assignments_done": 8,
+      "exam_score": 44.6,
+      "grade": "F"
+    },
+    {
+      "id": "S224",
+      "study_hours": 9.1,
+      "attendance": 69.0,
+      "sleep_hours": 6.8,
+      "assignments_done": 7,
+      "exam_score": 80.0,
+      "grade": "B"
+    },
+    {
+      "id": "S225",
+      "study_hours": 1.8,
+      "attendance": 98.0,
+      "sleep_hours": 7.2,
+      "assignments_done": 7,
+      "exam_score": 63.9,
+      "grade": "C"
+    },
+    {
+      "id": "S226",
+      "study_hours": 7.9,
+      "attendance": 90.0,
+      "sleep_hours": 6.8,
+      "assignments_done": 7,
+      "exam_score": 58.3,
+      "grade": "D"
+    },
+    {
+      "id": "S227",
+      "study_hours": 2.0,
+      "attendance": 92.0,
+      "sleep_hours": 7.3,
+      "assignments_done": 10,
+      "exam_score": 52.4,
+      "grade": "D"
+    },
+    {
+      "id": "S228",
+      "study_hours": 7.1,
+      "attendance": 73.0,
+      "sleep_hours": 4.2,
+      "assignments_done": 8,
+      "exam_score": 51.7,
+      "grade": "D"
+    },
+    {
+      "id": "S229",
+      "study_hours": 15.8,
+      "attendance": 80.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 7,
+      "exam_score": 84.2,
+      "grade": "A"
+    },
+    {
+      "id": "S230",
+      "study_hours": 4.4,
+      "attendance": 98.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 5,
+      "exam_score": 70.7,
+      "grade": "B"
+    },
+    {
+      "id": "S231",
+      "study_hours": 5.0,
+      "attendance": 80.0,
+      "sleep_hours": 8.7,
+      "assignments_done": 9,
+      "exam_score": 67.0,
+      "grade": "C"
+    },
+    {
+      "id": "S232",
+      "study_hours": 11.0,
+      "attendance": 97.0,
+      "sleep_hours": 6.9,
+      "assignments_done": 7,
+      "exam_score": 88.0,
+      "grade": "A"
+    },
+    {
+      "id": "S233",
+      "study_hours": 8.4,
+      "attendance": 100.0,
+      "sleep_hours": 8.0,
+      "assignments_done": 8,
+      "exam_score": 84.1,
+      "grade": "A"
+    },
+    {
+      "id": "S234",
+      "study_hours": 18.0,
+      "attendance": 81.0,
+      "sleep_hours": 4.7,
+      "assignments_done": 8,
+      "exam_score": 70.7,
+      "grade": "B"
+    },
+    {
+      "id": "S235",
+      "study_hours": 12.1,
+      "attendance": 75.0,
+      "sleep_hours": 7.4,
+      "assignments_done": 8,
+      "exam_score": 78.9,
+      "grade": "B"
+    },
+    {
+      "id": "S236",
+      "study_hours": 9.2,
+      "attendance": 84.0,
+      "sleep_hours": 5.8,
+      "assignments_done": 6,
+      "exam_score": 62.2,
+      "grade": "C"
+    },
+    {
+      "id": "S237",
+      "study_hours": 7.2,
+      "attendance": 93.0,
+      "sleep_hours": 5.5,
+      "assignments_done": 7,
+      "exam_score": 60.6,
+      "grade": "C"
+    },
+    {
+      "id": "S238",
+      "study_hours": 9.0,
+      "attendance": 57.0,
+      "sleep_hours": 7.9,
+      "assignments_done": 7,
+      "exam_score": 54.7,
+      "grade": "D"
+    },
+    {
+      "id": "S239",
+      "study_hours": 5.2,
+      "attendance": 81.0,
+      "sleep_hours": 4.6,
+      "assignments_done": 8,
+      "exam_score": 39.2,
+      "grade": "F"
+    },
+    {
+      "id": "S240",
+      "study_hours": 5.2,
+      "attendance": 83.0,
+      "sleep_hours": 5.9,
+      "assignments_done": 7,
+      "exam_score": 65.0,
+      "grade": "C"
+    }
+  ]
+}

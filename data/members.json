@@ -1,0 +1,87 @@
+{
+  "group": "Group 1",
+  "section": "227C",
+  "course": "CS207 / ST207",
+  "members": [
+    {
+      "name": "Natchanon Aksornchai",
+      "image": "student-a.jpeg",
+      "role": "Statistics Developer",
+      "responsibilities": [
+        "pages/statistics.py (UI)",
+        "services/cal_statistics.py: mean, median, variance, SD",
+        "services/cal_mode.py: mode and frequency table"
+      ],
+      "role_th": "ผู้พัฒนาส่วนสถิติ",
+      "responsibilities_th": [
+        "pages/statistics.py (หน้า UI)",
+        "services/cal_statistics.py: ค่าเฉลี่ย มัธยฐาน ความแปรปรวน SD",
+        "services/cal_mode.py: ฐานนิยมและตารางความถี่"
+      ]
+    },
+    {
+      "name": "Wasuphon Phadphon",
+      "image": "student-b.jpeg",
+      "role": "Probability Developer",
+      "responsibilities": [
+        "pages/bayes.py (UI)",
+        "services/cal_bayes.py: posterior P(A|B), total probability",
+        "Bayes examples and charts"
+      ],
+      "role_th": "ผู้พัฒนาส่วนความน่าจะเป็น",
+      "responsibilities_th": [
+        "pages/bayes.py (หน้า UI)",
+        "services/cal_bayes.py: Posterior P(A|B) และความน่าจะเป็นรวม",
+        "ตัวอย่างและกราฟของทฤษฎีบทเบย์ส"
+      ]
+    },
+    {
+      "name": "Sattawat Ueungprasert",
+      "image": "student-c.jpeg",
+      "role": "Project Lead & Custom App Developer",
+      "responsibilities": [
+        "main.py routing and project structure",
+        "pages/custom_app.py (StudyCast UI)",
+        "services/custom_service.py: softmax / sigmoid model, gradient descent, derivatives"
+      ],
+      "role_th": "หัวหน้าโปรเจกต์ และผู้พัฒนาแอปประยุกต์",
+      "responsibilities_th": [
+        "main.py ระบบ routing และโครงสร้างโปรเจกต์",
+        "pages/custom_app.py (หน้า UI ของ StudyCast)",
+        "services/custom_service.py: โมเดล softmax / sigmoid, gradient descent, อนุพันธ์"
+      ]
+    },
+    {
+      "name": "Phanparkarn Laochanaphinyo",
+      "image": "student-d.jpeg",
+      "role": "Markov Chain Developer",
+      "responsibilities": [
+        "pages/markov.py (UI)",
+        "services/text_prediction.py: transition matrix, next-word prediction, text generation",
+        "data/raw_data.json text corpora"
+      ],
+      "role_th": "ผู้พัฒนาส่วน Markov Chain",
+      "responsibilities_th": [
+        "pages/markov.py (หน้า UI)",
+        "services/text_prediction.py: เมทริกซ์การเปลี่ยนสถานะ ทำนายคำ สร้างประโยค",
+        "data/raw_data.json ชุดข้อความ"
+      ]
+    },
+    {
+      "name": "Kanokwan Nopparit",
+      "image": "student-e.jpeg",
+      "role": "UI/UX & Data Developer",
+      "responsibilities": [
+        "pages/home.py, pages/display_data.py, pages/members.py",
+        "services/data_loader.py: reading and summarising data files",
+        "App theme and layout (.streamlit/config.toml)"
+      ],
+      "role_th": "ผู้พัฒนา UI/UX และข้อมูล",
+      "responsibilities_th": [
+        "pages/home.py, pages/display_data.py, pages/members.py",
+        "services/data_loader.py: อ่านและสรุปไฟล์ข้อมูล",
+        "ธีมและการจัดวางของแอป (.streamlit/config.toml)"
+      ]
+    }
+  ]
+}
